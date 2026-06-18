@@ -15,7 +15,7 @@
   "scripts": {
     "start": "node node_modules/@sap/approuter/approuter.js",
     "test": "grunt unit_and_integration_tests",
-    "start2": "npm start2"
+    "start2": "npm start4"
   },
   "engines": {
     "node":"^20.0.0"
