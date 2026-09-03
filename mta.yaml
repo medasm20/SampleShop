@@ -26,7 +26,7 @@ modules:
    path: sample.Shop
    parameters:
       disk-quota: 512M
-      memory: 512M
+      memory: 128M
    build-parameters:
       builder: grunt
    requires:
